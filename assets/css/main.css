@@ -2055,7 +2055,7 @@ input, select, textarea {
 	.dark input[type="reset"],
 	.dark button,
 	.dark .button {
-		background: rgba(255, 255, 255, 0.15);
+		background: #8FE3D9;
 		box-shadow: inset 0 0 0 1px #fff;
 		color: #fff;
 	}
@@ -2204,7 +2204,7 @@ input, select, textarea {
 	}
 
 		.main > header {
-			background: #8FE3D9;
+			background: black;
 			text-align: center;
 			padding: 5em 0 5em 0;
 			margin: 0;
